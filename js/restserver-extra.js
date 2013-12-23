@@ -14,6 +14,8 @@
 
   module.exports.redirect = require('./lib/redirect');
 
+  module.exports.routes = require('./lib/routes');
+
   module.exports.send = require('./lib/send');
 
 }).call(this);
