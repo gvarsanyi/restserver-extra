@@ -1,6 +1,6 @@
 {
   "name": "restserver-extra",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "rest server helpers and high level functions",
   "main": "js/restserver-extra.js",
   "scripts": {
