@@ -8,6 +8,8 @@
 
   module.exports.load = require('./lib/load');
 
+  module.exports.log_init = require('./lib/log_init');
+
   module.exports.options = require('./lib/options');
 
   module.exports.send = require('./lib/send');
